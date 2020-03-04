@@ -1,19 +1,9 @@
-.box1 {
-  background-color: orange;
-  width: 200px;
-  height: 200px;
-  margin-bottom: 20px;
+img {
+  float: right;
 }
 
-.box2 {
-  background-color: skyblue;
-  width: 50%;
-  height: 50%;
-}
-
-.box3 {
-  background-color: tomato;
-  width: 100px;
-  height: 40px;
-  display: inline;
+h2 {
+  clear: right;
+  clear: left;
+  clear: both;
 }
